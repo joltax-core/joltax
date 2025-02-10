@@ -1,0 +1,9 @@
+{
+  "hello": "merhaba {{name}}",
+  "phone": "telefon",
+  "email": "e-posta",
+  "password": "şifre",
+  "login": "giriş yap",
+  "register": "kayıt ol",
+  "forgot_password": "şifremi unuttum"
+}
